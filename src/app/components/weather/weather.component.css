@@ -1,0 +1,16 @@
+.weather-info {
+    text-align: center;
+    margin-top: 20px;
+  }
+
+  .temperature {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+
+  .pressure, .humidity, .sunrise, .sunset {
+    margin-bottom: 5px;
+  }
+
+  
